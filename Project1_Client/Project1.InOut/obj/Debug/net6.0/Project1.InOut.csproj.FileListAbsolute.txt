@@ -1,0 +1,12 @@
+C:\Revature\Project 1\Project1.IO\bin\Debug\net6.0\Project1.InOut.deps.json
+C:\Revature\Project 1\Project1.IO\bin\Debug\net6.0\Project1.InOut.dll
+C:\Revature\Project 1\Project1.IO\bin\Debug\net6.0\Project1.InOut.pdb
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.csproj.AssemblyReference.cache
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.AssemblyInfoInputs.cache
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.AssemblyInfo.cs
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.csproj.CoreCompileInputs.cache
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.dll
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\refint\Project1.InOut.dll
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\Project1.InOut.pdb
+C:\Revature\Project 1\Project1.IO\obj\Debug\net6.0\ref\Project1.InOut.dll

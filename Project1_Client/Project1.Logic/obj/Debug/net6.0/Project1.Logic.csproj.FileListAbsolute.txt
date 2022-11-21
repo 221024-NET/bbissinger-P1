@@ -1,0 +1,12 @@
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.csproj.AssemblyReference.cache
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.AssemblyInfoInputs.cache
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.AssemblyInfo.cs
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.csproj.CoreCompileInputs.cache
+C:\Revature\Project 1\Project1.Objects\bin\Debug\net6.0\Project1.Logic.deps.json
+C:\Revature\Project 1\Project1.Objects\bin\Debug\net6.0\Project1.Logic.dll
+C:\Revature\Project 1\Project1.Objects\bin\Debug\net6.0\Project1.Logic.pdb
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.dll
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\refint\Project1.Logic.dll
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\Project1.Logic.pdb
+C:\Revature\Project 1\Project1.Objects\obj\Debug\net6.0\ref\Project1.Logic.dll

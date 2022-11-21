@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a0259c37-f592-4d25-9be4-35214afe0603</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+	<PackageReference Include="System.Data.SqlClient" Version="4.8.5" /> 
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Project.Data\Project1.Data.csproj" />
+		<ProjectReference Include="..\Project1.Logic\Project1.Logic.csproj" />
+	</ItemGroup>	
+	
+	
+</Project>
